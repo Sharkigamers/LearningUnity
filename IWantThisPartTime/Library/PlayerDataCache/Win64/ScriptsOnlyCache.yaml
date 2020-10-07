@@ -773,4 +773,4 @@ ScriptsOnlyBuild:
   - Assets/Levels/Menu/Menu.unity
   - Assets/Levels/Levels/Level1.unity
   - Assets/Levels/Credits/Credits.unity
-  playerPath: C:/UnityProject/IWantThisPartTime/Build/IWantThisStage.exe
+  playerPath: D:/UnityProjects/GitProject/LearningUnity/IWantThisPartTime/Build/IWantThisStage.exe
