@@ -110,7 +110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   plateform: {fileID: 0}
-  moveSpeed: 0.01
+  moveSpeed: 0.05
   marginBorder: 0.7
 --- !u!114 &8573487578403763176
 MonoBehaviour:

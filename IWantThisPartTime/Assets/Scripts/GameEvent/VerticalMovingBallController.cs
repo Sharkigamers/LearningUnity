@@ -13,7 +13,7 @@ public class VerticalMovingBallController : MonoBehaviour
 
     private bool moveBottomToTop = true;
 
-    private void LateUpdate()
+    private void FixedUpdate()
     {
         CellingContact();
         MoveVerticallyBall();

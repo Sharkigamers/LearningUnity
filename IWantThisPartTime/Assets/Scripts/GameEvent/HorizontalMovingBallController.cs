@@ -10,7 +10,7 @@ public class HorizontalMovingBallController : MonoBehaviour
 
     private bool movingRightToLeft = false;
 
-    private void LateUpdate()
+    private void FixedUpdate()
     {
         MoveHorizontalyBall();        
     }

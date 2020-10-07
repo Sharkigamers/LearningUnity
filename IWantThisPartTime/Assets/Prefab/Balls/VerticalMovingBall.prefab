@@ -110,8 +110,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   plateform: {fileID: 0}
-  positiveSpeed: 0.01
-  negativeSpeed: 0.02
+  positiveSpeed: 0.05
+  negativeSpeed: 0.06
   ceiling: 4
   waitingTime: 5
 --- !u!114 &7156487897386160591

@@ -650,6 +650,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 2668308979216989199, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2668308979216989199, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 2668308979592803848, guid: 5a509a1ce06298c4dae1535ccabdd815,
         type: 3}
       propertyPath: rigidbody
@@ -665,6 +675,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 2668308979592803851, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2668308979592803851, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 2668308979592803853, guid: 5a509a1ce06298c4dae1535ccabdd815,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -675,6 +695,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 2668308980002341634, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2668308980002341634, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 2668308980002341635, guid: 5a509a1ce06298c4dae1535ccabdd815,
         type: 3}
       propertyPath: rigidbody
@@ -705,6 +735,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 2668308980149342917, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2668308980149342917, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 2668308980149342919, guid: 5a509a1ce06298c4dae1535ccabdd815,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -720,6 +760,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 2668308980276521910, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2668308980276521910, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 2668308980276521911, guid: 5a509a1ce06298c4dae1535ccabdd815,
         type: 3}
       propertyPath: rigidbody
@@ -735,6 +785,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 2668308980459719236, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2668308980459719236, guid: 5a509a1ce06298c4dae1535ccabdd815,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 2668308980459719237, guid: 5a509a1ce06298c4dae1535ccabdd815,
         type: 3}
       propertyPath: player
@@ -1676,6 +1736,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3717096506295160621, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717096506295160621, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3717096506295160623, guid: a17af3474c165724da97eccb3bb2ec88,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1696,6 +1766,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3717096506424853145, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717096506424853145, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3717096506424853147, guid: a17af3474c165724da97eccb3bb2ec88,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1716,6 +1796,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3717096506842466574, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717096506842466574, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3717096506842466608, guid: a17af3474c165724da97eccb3bb2ec88,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1796,6 +1886,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3717096507447058618, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717096507447058618, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3717096507447058620, guid: a17af3474c165724da97eccb3bb2ec88,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1816,6 +1916,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3717096507457342129, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717096507457342129, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3717096507457342131, guid: a17af3474c165724da97eccb3bb2ec88,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1836,6 +1946,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3717096507540334471, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3717096507540334471, guid: a17af3474c165724da97eccb3bb2ec88,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3717096507540334473, guid: a17af3474c165724da97eccb3bb2ec88,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3602,11 +3722,31 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155643172025959, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155643172025959, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155643606148101, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155643606148101, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155643606148101, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155643606148103, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3627,6 +3767,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155644289563464, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155644289563464, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155644289563465, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: rigidbody
@@ -3652,6 +3802,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155644692506090, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155644692506090, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155644692506091, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: rigidbody
@@ -3677,6 +3837,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155644930874749, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155644930874749, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155644930874751, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3687,6 +3857,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155645070889604, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155645070889604, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155645070889605, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: rigidbody
@@ -5060,6 +5240,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 587000728757766519, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 587000728757766519, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 587000728757766520, guid: e15234dee5f144949aaa0fad6105545f,
         type: 3}
       propertyPath: rigidbody
@@ -5085,6 +5275,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 587000729062366325, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 587000729062366325, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 587000729062366327, guid: e15234dee5f144949aaa0fad6105545f,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5105,6 +5305,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 587000729209742426, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 587000729209742426, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 587000729209742428, guid: e15234dee5f144949aaa0fad6105545f,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5130,6 +5340,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 587000729217601919, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 587000729217601919, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 587000729231097632, guid: e15234dee5f144949aaa0fad6105545f,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5150,6 +5370,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 587000729231097662, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 587000729231097662, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 587000730040933968, guid: e15234dee5f144949aaa0fad6105545f,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5170,6 +5400,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 587000730040934062, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 587000730040934062, guid: e15234dee5f144949aaa0fad6105545f,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 587000730413338928, guid: e15234dee5f144949aaa0fad6105545f,
         type: 3}
       propertyPath: m_Name
@@ -6925,11 +7165,31 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155643172025959, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155643172025959, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155643606148101, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155643606148101, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155643606148101, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155643606148103, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -6950,6 +7210,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155644289563464, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155644289563464, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155644289563465, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: rigidbody
@@ -6975,6 +7245,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155644692506090, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155644692506090, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155644692506091, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: rigidbody
@@ -7000,6 +7280,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155644930874749, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155644930874749, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155644930874751, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -7010,6 +7300,16 @@ PrefabInstance:
       propertyPath: plateform
       value: 
       objectReference: {fileID: 1877091548}
+    - target: {fileID: 3975155645070889604, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: positiveSpeed
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3975155645070889604, guid: 0bc00e753e548994083a97480c24db8c,
+        type: 3}
+      propertyPath: negativeSpeed
+      value: 0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 3975155645070889605, guid: 0bc00e753e548994083a97480c24db8c,
         type: 3}
       propertyPath: rigidbody
